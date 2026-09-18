@@ -1,2 +1,1 @@
-# Engenharia-de-Dados-RocketLab
-Projeto CineData Analytics
+# Projeto CineData Analytics
